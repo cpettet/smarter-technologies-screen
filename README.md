@@ -1,6 +1,6 @@
 # Smarter Technologies Screen
 
-This is a repo is hosting a sort function for Smarter Technologies' robotic automation factory, serving as a tech screen.
+This is a repo hosting a sort function for Smarter Technologies' robotic automation factory, serving as a tech screen. [Description of problem](https://thoughtfulautomation.notion.site/Core-Engineering-Technical-Screen-b61b6f6980714c198dc49b91dd23d695)
 
 ## sort function
 
